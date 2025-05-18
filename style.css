@@ -369,6 +369,7 @@ border-top-right-radius:9% ;
     background-color: #66eda7;
     background-image: url("tablets-with-daily-pills-treatment.jpg");
     background-size: cover;
+    
 }
 #ourteam
 {
@@ -397,7 +398,7 @@ border-top-right-radius:9% ;
     margin-bottom: 3rem;
     margin-right: 3rem;
    text-align: center;
-    width: 150px;
+    width: 300px;
     background-color: azure;
     border-radius: 2rem;
     padding: 2rem;
